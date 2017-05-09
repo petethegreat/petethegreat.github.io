@@ -4,8 +4,8 @@ email: peter.thompson2881@gmail.com
 markdown: kramdown
 gems:
   - jekyll-feed
-
 exclude:
   - Gemfile
   - Gemfile.lock
 github_username: petethegreat
+linkedin_username: peter-thompson-toronto

@@ -2,10 +2,14 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: default
+layout: pete_default
 ---
 # Intro
 This is the index.md file. Here's some stuff
 
 ## section
+
 some other stuff
+
+
+
