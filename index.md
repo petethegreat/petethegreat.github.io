@@ -4,12 +4,21 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: pete_default
 ---
+
 # Intro
-This is the index.md file. Here's some stuff
+Here are some of the course projects I've worked on from the [Coursera Data Science Specialisation](https://www.coursera.org/specializations/jhu-data-science)
 
-## section
 
-some other stuff
+|:---|----:|
+|[Smartphone Activity Monitoring](https://petethegreat.github.io/RepData_PeerAssessment1/)|[source](https://github.com/petethegreat/RepData_PeerAssessment1/blob/master/PA1_template.Rmd)|
+|[NOAA Storm Data: Health and Economic effects](https://petethegreat.github.io/Reproducible/)| [source](https://github.com/petethegreat/Reproducible/blob/master/Storms.Rmd)|
+
+
+ 
+
+## Thesis
+
+link to thesis
 
 
 
