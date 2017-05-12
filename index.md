@@ -24,6 +24,7 @@ Here are some of the course projects I've worked on from the [Coursera Data Scie
 ## Thesis
 I obtained my PhD in experimental high energy physics from the University of Toronto in 2013. Most of my work focused on the Forward Calorimeter of the ATLAS detector at CERN. A pdf version of my thesis can be found [here]({{ "/assets/petes_thesis_final.pdf" | relative_url }}), the source has been uploaded to [github](https://github.com/petethegreat/thesis).
 
-
+## Webgl
+Some little webgl projects I made some time ago: [shapes]({{ "/webgl_stuff/pete_colour.html" | relative_url }}) [animation]({{ "/webgl_stuff/pete_anim.html" | relative_url }}) [cube]({{ "/webgl_stuff/cube/pete_cube.html" | relative_url }})
 
 
