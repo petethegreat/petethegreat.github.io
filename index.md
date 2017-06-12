@@ -16,7 +16,7 @@ Here are some of the course projects I've worked on from the [Coursera Data Scie
 |[NOAA Storm Data: Health and Economic effects](https://petethegreat.github.io/Reproducible/)| [source](https://github.com/petethegreat/Reproducible/blob/master/Storms.Rmd)|
 |[Effect of Transmission type on Fuel Efficiency]({{ "/regression/mpgDependanceOnTransmissionType.html" | relative_url }})| [source](https://github.com/petethegreat/regression/blob/master/mpgDependanceOnTransmissionType.Rmd)| -->
 
-
+  * [Machine Learning: Activity Classification from Wearable Device Measurements]({{ "/MachineLearning/Wearable.html" | relative_url}}) ([source](https://github.com/petethegreat/MachineLearning/blob/master/Wearable.Rmd))
   * [Smartphone Activity Monitoring](https://petethegreat.github.io/RepData_PeerAssessment1/) ([source](https://github.com/petethegreat/RepData_PeerAssessment1/blob/master/PA1_template.Rmd))
   * [NOAA Storm Data: Health and Economic effects](https://petethegreat.github.io/Reproducible/) ([source](https://github.com/petethegreat/Reproducible/blob/master/Storms.Rmd))
   * [Effect of Transmission type on Fuel Efficiency]({{ "/regression/mpgDependanceOnTransmissionType.html" | relative_url }}) ([source](https://github.com/petethegreat/regression/blob/master/mpgDependanceOnTransmissionType.Rmd))
