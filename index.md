@@ -8,7 +8,7 @@ layout: pete_default
 This page contains some of the things I have worked on/am working on. My contact information can be found at the bottom.
 
 ## Data Science
-Here are some of the course projects I've worked on from the [Coursera Data Science Specialisation](https://www.coursera.org/specializations/jhu-data-science)
+Here are some of the I've been working on recently. A number of these are from the [Coursera Data Science Specialisation](https://www.coursera.org/specializations/jhu-data-science)
 
 
 <!-- |:---|----:|
