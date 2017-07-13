@@ -16,9 +16,10 @@ Here are some of the I've been working on recently. A number of these are from t
 |[NOAA Storm Data: Health and Economic effects](https://petethegreat.github.io/Reproducible/)| [source](https://github.com/petethegreat/Reproducible/blob/master/Storms.Rmd)|
 |[Effect of Transmission type on Fuel Efficiency]({{ "/regression/mpgDependanceOnTransmissionType.html" | relative_url }})| [source](https://github.com/petethegreat/regression/blob/master/mpgDependanceOnTransmissionType.Rmd)| -->
 
+  * [Map of Toronto Restaurants]({{ "/YelpMap/YelpMap.html" | relative_url}}) ([source]({{site.github_url}}/YelpMap/))
   * [Machine Learning: Activity Classification from Wearable Device Measurements]({{ "/MachineLearning/Wearable.html" | relative_url}}) ([source](https://github.com/petethegreat/MachineLearning/blob/master/Wearable.Rmd))
   * [Smartphone Activity Monitoring](https://petethegreat.github.io/RepData_PeerAssessment1/) ([source](https://github.com/petethegreat/RepData_PeerAssessment1/blob/master/PA1_template.Rmd))
-  * [NOAA Storm Data: Health and Economic effects](https://petethegreat.github.io/Reproducible/) ([source](https://github.com/petethegreat/Reproducible/blob/master/Storms.Rmd))
+  * [NOAA Storm Data: Health and Economic effects](https://petethegreat.github.io/Reproducible/) ([source]({{site.github_url}}/Reproducible/blob/master/Storms.Rmd))
   * [Effect of Transmission type on Fuel Efficiency]({{ "/regression/mpgDependanceOnTransmissionType.html" | relative_url }}) ([source](https://github.com/petethegreat/regression/blob/master/mpgDependanceOnTransmissionType.Rmd))
 
 ## Thesis
