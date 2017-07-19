@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: pete_default
 ---
-# Pete's Page
+<!-- # Pete's Page -->
 This page contains some of the things I have worked on/am working on. My contact information can be found at the bottom.
 
 ## Data Science
