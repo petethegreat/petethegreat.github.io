@@ -22,7 +22,7 @@ Here are some of the I've been working on recently. A number of these are from t
   * [PySpark/Hadoop MapReduce]({{"/HadoopSpark/Stuff.html"| relative_url}}) ([source]({{site.github_url}}/HadoopSpark))
   * Kaggle Titanic
       * A rough [exploratory analysis](https://www.kaggle.com/pete2881/titanic-exploratory-analysis/) of the Titanic data
-      * A tuned [Random Forest]({{site.github_url}}/Titanic/blob/master/titanic_rf.py) model
+      * A tuned [Random Forest]({{site.github_url}}/Titanic/blob/master/titanic_rf.py) model - this scores about 76% on the Kaggle test set
   * [NLP - Text Prediction WebApp](https://petethegreat.shinyapps.io/textpred/) ([source]({{site.github_url}}/jhu_ds_capstone))
   * [Map of Toronto Restaurants]({{ "/YelpMap/YelpMap.html" | relative_url}}) ([source]({{site.github_url}}/YelpMap/))
   * [Machine Learning: Activity Classification from Wearable Device Measurements]({{ "/MachineLearning/Wearable.html" | relative_url}}) ([source](https://github.com/petethegreat/MachineLearning/blob/master/Wearable.Rmd))
