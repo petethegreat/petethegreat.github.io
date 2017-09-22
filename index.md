@@ -13,8 +13,8 @@ A current version of my resume can be found [here]({{ "/assets/resume_PeterThomp
 ## Data Science
 Here are some of the I've been working on recently. A number of these are from the [Coursera Data Science Specialisation](https://www.coursera.org/specializations/jhu-data-science)
 
-
-<!-- |:---|----:|
+<!-- blah -->
+<!-- |:---|----:| 
 |[Smartphone Activity Monitoring](https://petethegreat.github.io/RepData_PeerAssessment1/)|[source](https://github.com/petethegreat/RepData_PeerAssessment1/blob/master/PA1_template.Rmd)|
 |[NOAA Storm Data: Health and Economic effects](https://petethegreat.github.io/Reproducible/)| [source](https://github.com/petethegreat/Reproducible/blob/master/Storms.Rmd)|
 |[Effect of Transmission type on Fuel Efficiency]({{ "/regression/mpgDependanceOnTransmissionType.html" | relative_url }})| [source](https://github.com/petethegreat/regression/blob/master/mpgDependanceOnTransmissionType.Rmd)| -->
