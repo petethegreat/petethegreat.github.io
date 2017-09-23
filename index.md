@@ -30,7 +30,6 @@ Here are some of the I've been working on recently. A number of these are from t
   * [Smartphone Activity Monitoring](https://petethegreat.github.io/RepData_PeerAssessment1/) ([source](https://github.com/petethegreat/RepData_PeerAssessment1/blob/master/PA1_template.Rmd))
   * [NOAA Storm Data: Health and Economic effects](https://petethegreat.github.io/Reproducible/) ([source]({{site.github_url}}/Reproducible/blob/master/Storms.Rmd))
   * [Effect of Transmission type on Fuel Efficiency]({{ "/regression/mpgDependanceOnTransmissionType.html" | relative_url }}) ([source](https://github.com/petethegreat/regression/blob/master/mpgDependanceOnTransmissionType.Rmd))
-  * something else
 
 ## Thesis
 I obtained my PhD in experimental high energy physics from the University of Toronto in 2013. Most of my work focused on the Forward Calorimeter of the ATLAS detector at CERN. A pdf version of my thesis can be found [here]({{ "/assets/petes_thesis_final.pdf" | relative_url }}), the source has been uploaded to [github](https://github.com/petethegreat/thesis).
