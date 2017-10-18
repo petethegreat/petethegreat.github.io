@@ -19,10 +19,10 @@ Here are a few things I've been working on recently. Some of these are from the 
 |[NOAA Storm Data: Health and Economic effects](https://petethegreat.github.io/Reproducible/)| [source](https://github.com/petethegreat/Reproducible/blob/master/Storms.Rmd)|
 |[Effect of Transmission type on Fuel Efficiency]({{ "/regression/mpgDependanceOnTransmissionType.html" | relative_url }})| [source](https://github.com/petethegreat/regression/blob/master/mpgDependanceOnTransmissionType.Rmd)| -->
 
-  * Spark/Hadoop
+  * __Spark/Hadoop__
       * [PySpark/Hadoop MapReduce]({{"/HadoopSpark/Stuff.html"| relative_url}}) ([source]({{site.github_url}}/HadoopSpark))
       * Machine Learning - [PySpark ML pipeline]({{"/HadoopSpark/Pyspark_ML.html"| relative_url}})
-  * SKlearn/pandas/matplotlib - Kaggle Titanic Data
+  * __SKlearn/pandas/matplotlib__ - Kaggle Titanic Data
       * [exploratory analysis](https://www.kaggle.com/pete2881/titanic-exploratory-analysis/) of the Titanic data
       * Machine Learning - [Random Forest]({{site.github_url}}/Titanic/blob/master/titanic_rf.py) 
       * Machine Learning - [Ensemble Classifier]({{site.github_url}}/Titanic/blob/master/titanic_ensemble.py) 
