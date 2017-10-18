@@ -26,12 +26,13 @@ Here are a few things I've been working on recently. Some of these are from the 
       * [exploratory analysis](https://www.kaggle.com/pete2881/titanic-exploratory-analysis/) of the Titanic data
       * Machine Learning - [Random Forest]({{site.github_url}}/Titanic/blob/master/titanic_rf.py) 
       * Machine Learning - [Ensemble Classifier]({{site.github_url}}/Titanic/blob/master/titanic_ensemble.py) 
-  * [Map of Toronto Restaurants]({{ "/YelpMap/YelpMap.html" | relative_url}}) ([source]({{site.github_url}}/YelpMap/))
-  * [NLP - Text Prediction WebApp](https://petethegreat.shinyapps.io/textpred/) ([source]({{site.github_url}}/jhu_ds_capstone))
-  * Machine Learning - [Activity Classification from Wearable Device Measurements]({{ "/MachineLearning/Wearable.html" | relative_url}}) ([source](https://github.com/petethegreat/MachineLearning/blob/master/Wearable.Rmd))
-  * [Smartphone Activity Monitoring](https://petethegreat.github.io/RepData_PeerAssessment1/) ([source](https://github.com/petethegreat/RepData_PeerAssessment1/blob/master/PA1_template.Rmd))
-  * [NOAA Storm Data: Health and Economic effects](https://petethegreat.github.io/Reproducible/) ([source]({{site.github_url}}/Reproducible/blob/master/Storms.Rmd))
-  * [Effect of Transmission type on Fuel Efficiency]({{ "/regression/mpgDependanceOnTransmissionType.html" | relative_url }}) ([source](https://github.com/petethegreat/regression/blob/master/mpgDependanceOnTransmissionType.Rmd))
+  * __R__
+      * [Map of Toronto Restaurants]({{ "/YelpMap/YelpMap.html" | relative_url}}) ([source]({{site.github_url}}/YelpMap/))
+      * [NLP - Text Prediction WebApp](https://petethegreat.shinyapps.io/textpred/) ([source]({{site.github_url}}/jhu_ds_capstone))
+      * Machine Learning - [Activity Classification from Wearable Device Measurements]({{ "/MachineLearning/Wearable.html" | relative_url}}) ([source](https://github.com/petethegreat/MachineLearning/blob/master/Wearable.Rmd))
+      * [Smartphone Activity Monitoring](https://petethegreat.github.io/RepData_PeerAssessment1/) ([source](https://github.com/petethegreat/RepData_PeerAssessment1/blob/master/PA1_template.Rmd))
+      * [NOAA Storm Data: Health and Economic effects](https://petethegreat.github.io/Reproducible/) ([source]({{site.github_url}}/Reproducible/blob/master/Storms.Rmd))
+      * [Effect of Transmission type on Fuel Efficiency]({{ "/regression/mpgDependanceOnTransmissionType.html" | relative_url }}) ([source](https://github.com/petethegreat/regression/blob/master/mpgDependanceOnTransmissionType.Rmd))
 
 ## Thesis
 I obtained my PhD in experimental high energy physics from the University of Toronto in 2013. Most of my work focused on the Forward Calorimeter of the ATLAS detector at CERN. A pdf version of my thesis can be found [here]({{ "/assets/petes_thesis_final.pdf" | relative_url }}), the source has been uploaded to [github](https://github.com/petethegreat/thesis).
