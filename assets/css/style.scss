@@ -3,4 +3,4 @@
 
 @import "{{ site.theme }}";
 li a {margin: 5px 5px 5px 5px;}
-a:hover, a:focus { text-decoration: none; color: #0000ff ; margin: 0; }
+a:hover, a:focus { text-decoration: underline; color: #0000ff ; margin: 0; }
