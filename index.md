@@ -11,7 +11,7 @@ This page contains some of the things I have worked on/am working on. My contact
 A current version of my resume can be found [here]({{ "/assets/resume_PeterThompson.pdf" | relative_url }})
 
 ## Data Science
-Here are some of the I've been working on recently. A number of these are from the [Coursera Data Science Specialisation](https://www.coursera.org/specializations/jhu-data-science)
+Here are a few things I've been working on recently. Some of these are from the [Coursera Data Science Specialisation](https://www.coursera.org/specializations/jhu-data-science)
 
 <!-- blah -->
 <!-- |:---|----:| 
