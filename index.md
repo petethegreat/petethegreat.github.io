@@ -19,14 +19,16 @@ Here are some of the I've been working on recently. A number of these are from t
 |[NOAA Storm Data: Health and Economic effects](https://petethegreat.github.io/Reproducible/)| [source](https://github.com/petethegreat/Reproducible/blob/master/Storms.Rmd)|
 |[Effect of Transmission type on Fuel Efficiency]({{ "/regression/mpgDependanceOnTransmissionType.html" | relative_url }})| [source](https://github.com/petethegreat/regression/blob/master/mpgDependanceOnTransmissionType.Rmd)| -->
 
-  * [PySpark/Hadoop MapReduce]({{"/HadoopSpark/Stuff.html"| relative_url}}) ([source]({{site.github_url}}/HadoopSpark))
-  * Kaggle Titanic
-      * A rough [exploratory analysis](https://www.kaggle.com/pete2881/titanic-exploratory-analysis/) of the Titanic data
-      * A tuned [Random Forest]({{site.github_url}}/Titanic/blob/master/titanic_rf.py) model - this scores about 76% on the Kaggle test set
-      * A small [ensemble]({{site.github_url}}/Titanic/blob/master/titanic_ensemble.py) consisting of a random forest, AdaBoosted decision trees, and a linear discriminant analysis (77% on Kaggle)
-  * [NLP - Text Prediction WebApp](https://petethegreat.shinyapps.io/textpred/) ([source]({{site.github_url}}/jhu_ds_capstone))
+  * Spark/Hadoop
+      * [PySpark/Hadoop MapReduce]({{"/HadoopSpark/Stuff.html"| relative_url}}) ([source]({{site.github_url}}/HadoopSpark))
+      * Machine Learning - [PySpark ML pipeline]({{"/HadoopSpark/Pyspark_ML.html"| relative_url}})
+  * SKlearn/pandas/matplotlib - Kaggle Titanic Data
+      * [exploratory analysis](https://www.kaggle.com/pete2881/titanic-exploratory-analysis/) of the Titanic data
+      * Machine Learning - [Random Forest]({{site.github_url}}/Titanic/blob/master/titanic_rf.py) 
+      * Machine Learning - [Ensemble Classifier]({{site.github_url}}/Titanic/blob/master/titanic_ensemble.py) 
   * [Map of Toronto Restaurants]({{ "/YelpMap/YelpMap.html" | relative_url}}) ([source]({{site.github_url}}/YelpMap/))
-  * [Machine Learning: Activity Classification from Wearable Device Measurements]({{ "/MachineLearning/Wearable.html" | relative_url}}) ([source](https://github.com/petethegreat/MachineLearning/blob/master/Wearable.Rmd))
+  * [NLP - Text Prediction WebApp](https://petethegreat.shinyapps.io/textpred/) ([source]({{site.github_url}}/jhu_ds_capstone))
+  * Machine Learning - [Activity Classification from Wearable Device Measurements]({{ "/MachineLearning/Wearable.html" | relative_url}}) ([source](https://github.com/petethegreat/MachineLearning/blob/master/Wearable.Rmd))
   * [Smartphone Activity Monitoring](https://petethegreat.github.io/RepData_PeerAssessment1/) ([source](https://github.com/petethegreat/RepData_PeerAssessment1/blob/master/PA1_template.Rmd))
   * [NOAA Storm Data: Health and Economic effects](https://petethegreat.github.io/Reproducible/) ([source]({{site.github_url}}/Reproducible/blob/master/Storms.Rmd))
   * [Effect of Transmission type on Fuel Efficiency]({{ "/regression/mpgDependanceOnTransmissionType.html" | relative_url }}) ([source](https://github.com/petethegreat/regression/blob/master/mpgDependanceOnTransmissionType.Rmd))
