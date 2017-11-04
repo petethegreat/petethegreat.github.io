@@ -10,6 +10,9 @@ This page contains some of the things I have worked on/am working on. My contact
 ## Resume
 A current version of my resume can be found [here]({{ "/assets/resume_PeterThompson.pdf" | relative_url }})
 
+## Travelling
+Please note that I  will be travelling for most of November, and may be difficult to reach by phone. I should have consistent access to email/internet, so please feel free to reach out and I'll do my best to get in touch.
+
 ## Data Science
 Here are a few things I've been working on recently. Some of these are from the [Coursera Data Science Specialisation](https://www.coursera.org/specializations/jhu-data-science)
 
