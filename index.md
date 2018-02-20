@@ -18,7 +18,7 @@ Here are a few things I've been working on recently.
 <!-- |:---|----:| 
 |[Smartphone Activity Monitoring](https://petethegreat.github.io/RepData_PeerAssessment1/)|[source](https://github.com/petethegreat/RepData_PeerAssessment1/blob/master/PA1_template.Rmd)|
 |[NOAA Storm Data: Health and Economic effects](https://petethegreat.github.io/Reproducible/)| [source](https://github.com/petethegreat/Reproducible/blob/master/Storms.Rmd)|
-|[Effect of Transmission type on Fuel Efficiency]({{ "/regression/mpgDependanceOnTransmissionType.html" | relative_url }})| [source](https://github.com/petethegreat/regression/blob/master/mpgDependanceOnTransmissionType.Rmd)| -->
+|[Effect of Transmission type on Fuel Efficiency]({{ "/regression/mpgDependanceOnTransmissionType.html" | relative_url }})| [source](https://github.com/petethegreat/regression/blob/master/mpgDependanceOnTransmissionType.Rmd)| --> 
 
   * __Python/Flask/js__ 
       * [Realtime Toronto Tweets]({{"/transitTweets/web/TorontoTweets.html"| relative_url}}) ([overview]({{"/transitTweets/web/overview.html"| relative_url}}), [source]({{site.github_url}}/transitTweets))
