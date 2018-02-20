@@ -7,12 +7,12 @@ layout: pete_default
 <!-- # Pete's Page -->
 This page contains some of the things I have worked on/am working on. My contact information can be found at the bottom.
 
-## Resume
+<!-- ## Resume
 A current version of my resume can be found [here]({{ "/assets/resume_PeterThompson.pdf" | relative_url }})
-
+ -->
 
 ## Data Science
-Here are a few things I've been working on recently. Some of these are from the [Coursera Data Science Specialisation](https://www.coursera.org/specializations/jhu-data-science)
+Here are a few things I've been working on recently. 
 
 <!-- blah -->
 <!-- |:---|----:| 
@@ -20,6 +20,8 @@ Here are a few things I've been working on recently. Some of these are from the 
 |[NOAA Storm Data: Health and Economic effects](https://petethegreat.github.io/Reproducible/)| [source](https://github.com/petethegreat/Reproducible/blob/master/Storms.Rmd)|
 |[Effect of Transmission type on Fuel Efficiency]({{ "/regression/mpgDependanceOnTransmissionType.html" | relative_url }})| [source](https://github.com/petethegreat/regression/blob/master/mpgDependanceOnTransmissionType.Rmd)| -->
 
+  * __Python/Flask/js__ 
+      * [Realtime Toronto Tweets]({{"/transitTweets/web/TorontoTweets.html"| relative_url}})([overview]({{"/transitTweets/web/overview.html"| relative_url}}), [source]({{site.github_url}}/transitTweets}}))
   * __Spark/Hadoop__
       * [PySpark/Hadoop MapReduce]({{"/HadoopSpark/Stuff.html"| relative_url}}) ([source]({{site.github_url}}/HadoopSpark))
       * Machine Learning - [PySpark ML pipeline]({{"/HadoopSpark/Pyspark_ML.html"| relative_url}})
