@@ -12,7 +12,7 @@ A current version of my resume can be found [here]({{ "/assets/resume_PeterThomp
  -->
 
 ## Data Science
-Here are a few things I've been working on recently. 
+Here are a few things I've been working on recently.  
 
 <!-- blah -->
 <!-- |:---|----:| 
