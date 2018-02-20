@@ -21,7 +21,7 @@ Here are a few things I've been working on recently.
 |[Effect of Transmission type on Fuel Efficiency]({{ "/regression/mpgDependanceOnTransmissionType.html" | relative_url }})| [source](https://github.com/petethegreat/regression/blob/master/mpgDependanceOnTransmissionType.Rmd)| -->
 
   * __Python/Flask/js__ 
-      * [Realtime Toronto Tweets]({{"/transitTweets/web/TorontoTweets.html"| relative_url}})([overview]({{"/transitTweets/web/overview.html"| relative_url}}), [source]({{site.github_url}}/transitTweets}}))
+      * [Realtime Toronto Tweets]({{"/transitTweets/web/TorontoTweets.html"| relative_url}}) ([overview]({{"/transitTweets/web/overview.html"| relative_url}}), [source]({{site.github_url}}/transitTweets))
   * __Spark/Hadoop__
       * [PySpark/Hadoop MapReduce]({{"/HadoopSpark/Stuff.html"| relative_url}}) ([source]({{site.github_url}}/HadoopSpark))
       * Machine Learning - [PySpark ML pipeline]({{"/HadoopSpark/Pyspark_ML.html"| relative_url}})
