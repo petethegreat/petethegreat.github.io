@@ -22,6 +22,8 @@ Here are a few things I've been working on recently.
 
   * __Python/Flask/js__ 
       * [Realtime Toronto Tweets]({{"/transitTweets/web/TorontoTweets.html"| relative_url}}) ([overview]({{"/transitTweets/web/overview.html"| relative_url}}), [source]({{site.github_url}}/transitTweets))
+  * __Jupyter Notebook/matplotlib__
+      * [Keyword Analysis of Dungeons and Dragons Powers (4E)]("/HadoopSpark/PowerKeywords4E.html" | relative_url) ([source]({{site.github_url}}/HadoopSpark/PowerKeywords4E.ipynb)
   * __Spark/Hadoop__
       * [PySpark/Hadoop MapReduce]({{"/HadoopSpark/Stuff.html"| relative_url}}) ([source]({{site.github_url}}/HadoopSpark))
       * Machine Learning - [PySpark ML pipeline]({{"/HadoopSpark/Pyspark_ML.html"| relative_url}})
