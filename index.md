@@ -11,6 +11,10 @@ This page contains some of the things I have worked on/am working on. My contact
 A current version of my resume can be found [here]({{ "/assets/resume_PeterThompson.pdf" | relative_url }})
  -->
 
+## MLOps
+
+  * kubeflow pipeline for training/batch prediction of a pistachio classification model ([source]({{"/pistachio_mlops/"| relative_url}})) 
+
 ## Data Science
 Here are a few things I've been working on recently.  
 
