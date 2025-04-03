@@ -5,16 +5,18 @@
 layout: pete_default
 ---
 <!-- # Pete's Page -->
-This page contains some of the things I have worked on/am working on. My contact information can be found at the bottom. I'm based out of Toronto, and interested in hybrid/remote roles.
+This page contains some of the things I have worked on/am working on. My contact information can be found at the bottom. I'm based out of Toronto, and interested in hybrid or remote roles.
 
 <!-- ## Resume
 A current version of my resume can be found [here]({{ "/assets/resume_PeterThompson.pdf" | relative_url }})
  -->
 
 ## MLOps
-I'm interested in ML engineering and MLOps at the moment, and have been working with kubeflow pipelines
+I'm interested in ML engineering and MLOps, and have been working with some pipelines pipelines
 
   * kubeflow pipeline for training/batch prediction of a pistachio classification model ([source]({{site.github_url}}/pistachio_mlops)) 
+
+  * Tensorflow + mlflow + postgres stack (docker compose) ([source]({{site.github_url}}/pistachio_tf)) 
 
 ## Data Science
 I've been working as a data scientist for a few years now, both as an individual contributor and a leader. I'm currently leading a team of 5 other data scientists, largely focussed on recommendation systems. There are a few projects below that are a few years old now - The source is still available but the applications may no longer be live.
