@@ -12,11 +12,11 @@ A current version of my resume can be found [here]({{ "/assets/resume_PeterThomp
  -->
 
 ## MLOps
-I'm interested in ML engineering and MLOps, and have been working with some pipelines pipelines
+I'm interested in ML engineering and MLOps, and have been working with some different frameworks for pipelines and tracking. These are based around classification models for a [pistachio dataset](https://www.kaggle.com/datasets/muratkokludataset/pistachio-dataset).
 
   * kubeflow pipeline for training/batch prediction of a pistachio classification model ([source]({{site.github_url}}/pistachio_mlops)) 
 
-  * Tensorflow + mlflow + postgres stack (docker compose) ([source]({{site.github_url}}/pistachio_tf)) 
+  * Tensorflow + mlflow + postgres docker stack ([source]({{site.github_url}}/pistachio_tf)) 
 
 ## Data Science
 I've been working as a data scientist for a few years now, both as an individual contributor and a leader. I'm currently leading a team of 5 other data scientists, largely focussed on recommendation systems. There are a few projects below that are a few years old now - The source is still available but the applications may no longer be live.
